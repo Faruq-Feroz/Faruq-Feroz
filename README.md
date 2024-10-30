@@ -4,6 +4,8 @@ I'm a passionate **Frontend Developer** with a focus on creating smooth and inte
 
 ---
 
+![Profile Views](https://profile-counter.glitch.me/Faruq-Feroz/count.svg)
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
