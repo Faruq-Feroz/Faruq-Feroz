@@ -6,7 +6,7 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; display: flex; align-items: center; padding: 10px;">
+<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; display: flex; align-items: center;">
 
   <div style="background-color: #f0f0f0; padding: 5px; border-radius: 3px; margin-right: 10px;">
     <strong>Profile Views:</strong>
@@ -16,6 +16,7 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
   </div>
 
 </div>
+
 
 ### 🛠️ Languages and Tools:
 - HTML
