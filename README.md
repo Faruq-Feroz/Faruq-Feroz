@@ -1,39 +1,40 @@
 # Hi there, I'm Hassan Faruq 👋
 
-I'm a passionate **Frontend Developer** with a focus on creating smooth and interactive user experiences on the web. Currently, I'm expanding my skill set by diving into **Backend Development** to become a more well-rounded developer.
+I'm a passionate **Frontend Developer** with a strong foundation in creating dynamic and responsive web applications. I am currently enhancing my skill set by learning **Backend Development**, where I aim to deepen my understanding of server-side technologies and how they integrate with the frontend to create seamless user experiences.
+
+You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-![Profile Views](https://profile-counter.glitch.me/Faruq-Feroz/count.svg)
+<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; display: flex; align-items: center;">
+
+  <strong style="margin-right: 10px;">Profile Views:</strong>
+  ![Profile Views](https://profile-counter.glitch.me/Faruq-Feroz/count.svg)
+
+</div>
 
 ### 🛠️ Languages and Tools:
+- HTML
+- CSS
+- JavaScript
+- React
+- [Other languages/tools you know or are learning]
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+### 🌱 I’m currently learning:
+- [List the backend technologies or languages you're currently learning]
 
----
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Faruq-Feroz&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical)](https://github.com/Faruq-Feroz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact&theme=radical)](https://github.com/Faruq-Feroz)
+### 📫 How to reach me:
+- Email: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 🎯 Current Goals
-- Deepen my understanding of backend technologies to build full-stack applications.
-- Work on more collaborative and open-source projects.
+### 🌟 GitHub Stats
 
-### 📫 Get in Touch
-- **Email**: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical)
 
-Thanks for visiting my profile! Looking forward to connecting and collaborating on exciting projects.
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&layout=compact)
+
+---
+
+### 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/hassan-faruq-4a2858311/)
