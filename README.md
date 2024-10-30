@@ -8,12 +8,8 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 <div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; display: flex; align-items: center;">
 
-  <div style="background-color: #f0f0f0; padding: 5px; border-radius: 3px; margin-right: 10px;">
-    <strong>Profile Views:</strong>
-  </div>
-  <div style="background-color: #d1e7dd; padding: 5px; border-radius: 3px;">
-    ![Profile Views](https://profile-counter.glitch.me/Faruq-Feroz/count.svg)
-  </div>
+  <strong style="margin-right: 10px;">Profile Views:</strong>
+  ![Profile Views](https://profile-counter.glitch.me/Faruq-Feroz/count.svg)
 
 </div>
 
