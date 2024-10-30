@@ -6,9 +6,12 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-<div style="display: flex; align-items: center; border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; background-color: #f8f9fa;">
-  <strong style="margin-right: 10px;">Profile Views:</strong>
-  <img src="https://profile-counter.glitch.me/Faruq-Feroz/count.svg" alt="Profile Views" style="margin-left: 5px;">
+### Profile Views
+<div style="display: flex; align-items: center; border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
+  <strong style="margin-right: 10px; background-color: #e9ecef; padding: 5px; border-radius: 5px;">Profile Views:</strong>
+  <span style="font-size: 18px; margin-left: 10px; background-color: #d1ecf1; padding: 5px; border-radius: 5px;">
+    <img src="https://profile-counter.glitch.me/Faruq-Feroz/count.svg" alt="Profile Views" style="vertical-align: middle;">
+  </span>
 </div>
 
 ### 🛠️ Languages and Tools:
