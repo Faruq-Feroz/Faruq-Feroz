@@ -7,12 +7,9 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ---
 
 <div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; display: flex; align-items: center;">
-
   <strong style="margin-right: 10px;">Profile Views:</strong>
   ![Profile Views](https://profile-counter.glitch.me/Faruq-Feroz/count.svg)
-
 </div>
-
 
 ### 🛠️ Languages and Tools:
 - HTML
@@ -34,11 +31,19 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 🌟 GitHub Stats
+<div style="display: flex; justify-content: space-around;">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical)
+  <div>
+    <h3>🌟 GitHub Stats</h3>
+    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical)
+  </div>
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&layout=compact)
+  <div>
+    <h3>📈 Top Languages</h3>
+    ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&layout=compact)
+  </div>
+
+</div>
 
 ---
 
