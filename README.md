@@ -31,19 +31,11 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-<div style="display: flex; justify-content: space-around;">
+### 🌟 GitHub Stats
 
-  <div>
-    <h3>🌟 GitHub Stats</h3>
-    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical)
-  </div>
-
-  <div>
-    <h3>📈 Top Languages</h3>
-    ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&layout=compact)
-  </div>
-
-</div>
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical) | ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&layout=compact) |
+|:---:|:---:|
+| Your GitHub Stats | Your Top Languages |
 
 ---
 
