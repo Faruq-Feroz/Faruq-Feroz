@@ -18,10 +18,15 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 - CSS
 - JavaScript
 - React
-- [Other languages/tools you know or are learning]
+- Tailwind CSS
+- Bootstrap
+- Python
 
 ### 🌱 I’m currently learning:
-- [List the backend technologies or languages you're currently learning]
+- Express
+- MongoDB
+- Node.js
+- Python
 
 ### 📫 How to reach me:
 - Email: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
