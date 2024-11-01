@@ -26,19 +26,17 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 🌟 GitHub Stats & Contributions
+### 🌟 GitHub Stats
 
-### 🌟 GitHub Stats & Contributions
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact) |
+|:--:|:--:|
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical" style="width: 32%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical" style="width: 32%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&hide=HTML,CSS" style="width: 32%;"/>
-</div>
+### 📊 Contributions & Streaks
 
+| ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=dark) | ![Streaks](https://github-readme-streak-stats.herokuapp.com/api?user=Faruq-Feroz&theme=dark&hide_border=true) |
+|:--:|:--:|
 
 ---
 
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/hassan-faruq-4a2858311/)
-- [GitHub Profile](https://github.com/Faruq-Feroz)
