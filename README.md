@@ -1,5 +1,7 @@
 # Hi there, I'm Hassan Faruq 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Faruq-Feroz&color=blue&style=flat)
+
 I'm a passionate **Frontend Developer** with a strong foundation in creating dynamic and responsive web applications. I am currently enhancing my skill set by learning **Backend Development**, where I aim to deepen my understanding of server-side technologies and how they integrate with the frontend to create seamless user experiences.
 
 You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
