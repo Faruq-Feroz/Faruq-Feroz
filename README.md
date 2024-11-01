@@ -8,13 +8,13 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ### 🛠️ Languages and Tools:
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="width: 60px; height: 60px; margin: 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS3_logo_and_wordmark.svg" alt="CSS" style="width: 60px; height: 60px; margin: 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo_2.svg" alt="JavaScript" style="width: 60px; height: 60px; margin: 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="width: 60px; height: 60px; margin: 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" style="width: 60px; height: 60px; margin: 5px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="width: 60px; height: 60px; margin: 5px;" />
-    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/474x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" alt="HTML" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/474x/b7/c2/e5/b7c2e508920a1168b94dea8675fa311d.jpg" alt="CSS" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/474x/e7/97/a8/e797a8c593c81d72f395d1ccc022ba3f.jpg" alt="JavaScript" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/474x/7b/5f/ca/7b5fcae4b33fc0960642fe32d26b659f.jpg" alt="React" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/474x/99/dd/b6/99ddb6c710178e5b86ddf84882f0459e.jpg" alt="Tailwind CSS" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/736x/33/04/ad/3304ad7bb43da2aa07925a168b3c834b.jpg" alt="Sass" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://i.pinimg.com/474x/92/d6/60/92d660adb69ff63b4d133cda9592d848.jpg" alt="Bootstrap" style="width: 60px; height: 60px; margin: 5px;" />
 </div>
 
 ### 🌱 I’m currently learning:
