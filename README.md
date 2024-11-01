@@ -28,11 +28,14 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ### 🌟 GitHub Stats & Contributions
 
+### 🌟 GitHub Stats & Contributions
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical" style="width: 32%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical" style="width: 32%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical" style="width: 32%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&show_icons=true&hide=html,css" style="width: 32%;"/>
 </div>
+
 
 ---
 
