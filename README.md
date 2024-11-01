@@ -7,13 +7,15 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ---
 
 ### 🛠️ Languages and Tools:
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Bootstrap
-- Python
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS3_logo_and_wordmark.svg" alt="CSS" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JavaScript_logo_2.svg" alt="JavaScript" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://tailwindcss.com/_next/static/media/logo.svg" alt="Tailwind CSS" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="width: 60px; height: 60px; margin: 5px;" />
+    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" style="width: 60px; height: 60px; margin: 5px;" />
+</div>
 
 ### 🌱 I’m currently learning:
 - Express
