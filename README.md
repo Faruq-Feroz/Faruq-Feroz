@@ -33,10 +33,11 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ### 🌟 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 350px; height: 250px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact" alt="Top Languages" style="width: 300px; height: 240px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 300px; height: 240px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/api?user=Faruq-Feroz&theme=dark&hide_border=true" alt="Streaks" style="width: 300px; height: 240px;" />
+   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact" alt="Top Languages" style="width: 380px; height: 280px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 380px; height: 280px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/api?user=Faruq-Feroz&theme=dark&hide_border=true" alt="Streaks" style="width: 380px; height: 280px;" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 380px; height: 280px;" />
 </div>
 
 ---
