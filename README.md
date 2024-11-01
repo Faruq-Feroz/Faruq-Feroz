@@ -29,12 +29,13 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ### 🌟 GitHub Stats & Contributions
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanfaruq&show_icons=true&theme=radical" style="width: 32%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanfaruq&theme=radical" style="width: 32%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanfaruq&theme=radical" style="width: 32%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical" style="width: 32%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical" style="width: 32%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical" style="width: 32%;"/>
 </div>
 
 ---
 
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/hassan-faruq-4a2858311/)
+- [GitHub Profile](https://github.com/Faruq-Feroz)
