@@ -6,14 +6,6 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### Profile Views
-<div style="display: flex; align-items: center; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
-  <strong style="margin-right: 10px; background-color: #e9ecef; padding: 5px; border-radius: 5px;">Profile Views:</strong>
-  <span style="font-size: 18px; margin-left: 10px; background-color: #d1ecf1; padding: 5px; border-radius: 5px;">
-    <img src="https://profile-counter.glitch.me/Faruq-Feroz/count.svg" alt="Profile Views" style="vertical-align: middle;">
-  </span>
-</div>
-
 ### 🛠️ Languages and Tools:
 - HTML
 - CSS
@@ -34,16 +26,13 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 🌟 GitHub Stats
+### 🌟 GitHub Stats & Contributions
 
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical) | ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&layout=compact) |
-|:---:|:---:|
-
-### 📊 Contributions & Streaks
-
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical)
-
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Faruq-Feroz&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanfaruq&show_icons=true&theme=radical" style="width: 32%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanfaruq&theme=radical" style="width: 32%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanfaruq&theme=radical" style="width: 32%;"/>
+</div>
 
 ---
 
