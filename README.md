@@ -17,23 +17,20 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://i.pinimg.com/474x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" alt="HTML" width="40" height="40"/> 
-    </a> 
+    </a>
+       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://i.pinimg.com/474x/b7/c2/e5/b7c2e508920a1168b94dea8675fa311d.jpg" alt="CSS" width="40" height="40"/> 
+    </a>
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://i.pinimg.com/474x/b7/c2/e5/b7c2e508920a1168b94dea8675fa311d.jpg" alt="CSS" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://i.pinimg.com/474x/e7/97/a8/e797a8c593c81d72f395d1ccc022ba3f.jpg" alt="JavaScript" width="40" height="40"/> 
@@ -53,12 +50,6 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 </p>
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left"> 
-    <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
     </a>
