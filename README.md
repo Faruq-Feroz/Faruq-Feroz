@@ -89,7 +89,7 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact&theme=dark" alt="Top Languages" style="width: 380px; height: 280px;" />
-    <img src="https://github-readme-streak-stats.vercel.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 380px; height: 280px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 380px; height: 280px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/api?user=Faruq-Feroz&theme=dark&hide_border=true" alt="Streaks" style="width: 380px; height: 280px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats" style="width: 380px; height: 280px;" />
 </div>
