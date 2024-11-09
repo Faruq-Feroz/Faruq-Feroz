@@ -35,6 +35,9 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://i.pinimg.com/474x/e7/97/a8/e797a8c593c81d72f395d1ccc022ba3f.jpg" alt="JavaScript" width="40" height="40"/> 
     </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://i.pinimg.com/474x/7b/5f/ca/7b5fcae4b33fc0960642fe32d26b659f.jpg" alt="React" width="40" height="40"/> 
+    </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://i.pinimg.com/474x/99/dd/b6/99ddb6c710178e5b86ddf84882f0459e.jpg" alt="Tailwind CSS" width="40" height="40"/> 
     </a> 
@@ -88,8 +91,8 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ### 🌟 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 380px; height: 280px;" />
-    <img src="https://github-readme-streak-stats.vercel.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 380px; height: 280px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact&theme=dark" alt="Top Languages" style="width: 380px; height: 280px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=dark" alt="Contributions" style="width: 380px; height: 280px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/api?user=Faruq-Feroz&theme=dark&hide_border=true" alt="Streaks" style="width: 380px; height: 280px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&hide_title=true&theme=dark" alt="GitHub Stats" style="width: 380px; height: 280px;" />
 </div>
