@@ -31,10 +31,7 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
     </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://i.pinimg.com/474x/7b/5f/ca/7b5fcae4b33fc0960642fe32d26b659f.jpg" alt="React" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://i.pinimg.com/474x/99/dd/b6/99ddb6c710178e5b86ddf84882f0459e.jpg" alt="Tailwind CSS" width="40" height="40"/> 
     </a> 
