@@ -41,9 +41,6 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://i.pinimg.com/474x/99/dd/b6/99ddb6c710178e5b86ddf84882f0459e.jpg" alt="Tailwind CSS" width="40" height="40"/> 
     </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://i.pinimg.com/474x/92/d6/60/92d660adb69ff63b4d133cda9592d848.jpg" alt="Bootstrap" width="40" height="40"/> 
-    </a> 
 </p>
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left"> 
