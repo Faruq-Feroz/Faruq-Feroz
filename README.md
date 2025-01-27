@@ -85,4 +85,4 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ---
 
 ### 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/hassan-faruq-4a2858311/)
+- [LinkedIn](https://www.linkedin.com/in/faruq-hassan-733899349/)
