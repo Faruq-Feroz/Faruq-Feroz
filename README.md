@@ -71,12 +71,6 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faruq-Feroz&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/faruq-hassan-733899349/)
