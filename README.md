@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruq-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="faruq-feroz" /> </p>
 
-I'm a Full-Stack Developer proficient in **Frontend** and **Backend** Development.
-
-I specialize in building dynamic, responsive, and efficient web applications by seamlessly integrating server-side and client-side technologies. My focus is on creating scalable solutions that enhance user experiences and meet modern development standards.
+As a Full-Stack Developer, I craft seamless digital experiences from concept to deployment. With strong command of both frontend and backend technologies, I develop web applications that are not only responsive and user-friendly but also robust and scalable. Whether it's designing clean interfaces or optimizing server performance, I bring both sides of the web together to deliver high-quality solutions.
 
 You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
