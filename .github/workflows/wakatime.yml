@@ -2,13 +2,16 @@ name: WakaTime stats update
 
 on:
   schedule:
-    - cron: '30 18 * * *'
-  workflow_dispatch:
+    - cron: '30 18 * * *' # Runs daily at 6:30 PM UTC
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to update README
+      actions: read   # Required to access Actions
     steps:
       - uses: actions/checkout@v3
       - uses: anmol098/waka-readme-stats@master
