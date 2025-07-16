@@ -62,7 +62,7 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Faruq-Feroz&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
