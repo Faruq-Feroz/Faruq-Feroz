@@ -60,10 +60,13 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ### 🌟 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact&theme=dark" alt="Top Languages" style="width: 380px; height: 280px;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Faruq-Feroz&theme=dark" alt="GitHub Streak" style="width: 380px; height: 280px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&hide_title=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 380px; height: 280px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Faruq-Feroz&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Feroz&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" width="50%" />
 </div>
 
 ---
