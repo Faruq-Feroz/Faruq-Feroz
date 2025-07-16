@@ -71,5 +71,12 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/faruq-hassan-733899349/)
