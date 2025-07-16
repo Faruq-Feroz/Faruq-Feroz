@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write # Required to update README
       actions: read   # Required to access Actions
+      pull-requests: write # Optional, for PRs if needed
     steps:
       - uses: actions/checkout@v3
       - uses: anmol098/waka-readme-stats@master
