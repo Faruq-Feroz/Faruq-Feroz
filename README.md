@@ -74,6 +74,75 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 356.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 434 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 95 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌆 Daytime                205 commits         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌙 Night                  308 commits         ██████████░░░░░░░░░░░░░░░   40.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Wednesday                151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Thursday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Sunday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   43.14 % 
+HTML                     34 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+```
+
+
+
+
+ Last Updated on 17/07/2025 00:29:07 UTC
 <!--END_SECTION:waka-->
 
 ---
