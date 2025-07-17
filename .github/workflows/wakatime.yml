@@ -10,9 +10,9 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # Required to update README
-      actions: read          # Required to access Actions
-      pull-requests: write   # Optional, only needed if PRs are used
+      contents: write
+      actions: read
+      pull-requests: write
 
     steps:
       - uses: actions/checkout@v3
@@ -22,18 +22,18 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # SHOW ONLY TIME-BASED METRICS
+          # TIME-BASED METRICS YOU WANT
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
-          SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_DAYS_OF_WEEK: "True"
 
-          # HIDE NON-TIME/COMMIT BASED METRICS
+          # DISABLE UNWANTED SECTIONS
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_SHORT_INFO: "False"
+          SHOW_SHORT_INFO: "False"   # hides storage, hire status, repo counts
+          SHOW_OS: "False"           # hides operating system stats
           SHOW_LOC_CHART: "False"
