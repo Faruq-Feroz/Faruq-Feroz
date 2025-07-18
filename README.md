@@ -71,13 +71,5 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 📊 WakaTime Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
-</div>
-
----
-
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/faruq-hassan-733899349/)
