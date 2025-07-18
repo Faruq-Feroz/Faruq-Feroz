@@ -71,62 +71,11 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
-### 📊 Weekly Development Breakdown
+### 📊 WakaTime Coding Stats
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-🌆 Daytime                208 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌙 Night                  311 commits         ██████████░░░░░░░░░░░░░░░   40.28 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Wednesday                151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Sunday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   43.14 % 
-HTML                     34 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-```
-
-
-
-
- Last Updated on 17/07/2025 18:53:15 UTC
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faruq-Feroz&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+</div>
 
 ---
 
