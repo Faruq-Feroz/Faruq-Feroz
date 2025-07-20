@@ -71,5 +71,10 @@ You can reach me at: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 
 ---
 
+### 📊 My WakaTime Stats
+[![Hassan Faruq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/faruq-hassan-733899349/)
