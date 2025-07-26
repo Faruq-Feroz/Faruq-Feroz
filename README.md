@@ -13,7 +13,9 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-faruq777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-faruq-linkedin" height="30" width="40" /></a>
-<a href="mailto:hassanferoz333@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hassan-email" height="30" width="40" /></a>
+<a href="mailto:hassanferoz333@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
