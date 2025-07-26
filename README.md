@@ -47,6 +47,11 @@ As a Full-Stack Developer, I craft seamless digital experiences from concept to 
 
 ---
 
+### 📊 My WakaTime Stats
+[![Hassan Faruq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 📫 How to reach me:
 - Email: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
 - LinkedIn: [Hassan Faruq](https://www.linkedin.com/in/faruq-hassan-733899349/)
