@@ -6,10 +6,6 @@
 
 As a Full-Stack Developer, I craft seamless digital experiences from concept to deployment. With strong command of both frontend and backend technologies, I develop web applications that are not only responsive and user-friendly but also robust and scalable. Whether it's designing clean interfaces or optimizing server performance, I bring both sides of the web together to deliver high-quality solutions.
 
-- 🌱 I'm currently learning **Advanced React Patterns, Cloud Architecture, and DevOps**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio-link.com)
-
 - 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB, and Full-Stack Development**
 
 - 📫 How to reach me **hassanferoz333@gmail.com**
@@ -22,8 +18,8 @@ As a Full-Stack Developer, I craft seamless digital experiences from concept to 
 <a href="mailto:hassanferoz333@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hassan-email" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -39,7 +35,7 @@ As a Full-Stack Developer, I craft seamless digital experiences from concept to 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Faruq-Feroz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Faruq-Feroz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical" alt="Faruq-Feroz" /></p>
 
