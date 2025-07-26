@@ -40,19 +40,19 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Hassan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true&timestamp=20250726" alt="Hassan's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical&hide_border=true&timestamp=20250726" alt="Hassan's Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&timestamp=20250726" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 <h3 align="center">⏱️ WakaTime Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true&timestamp=20250726" alt="WakaTime Stats" />
 </p>
 
 ---
