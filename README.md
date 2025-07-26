@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruq-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="faruq-feroz" /> </p>
 
-As a Full-Stack Developer, I craft seamless digital experiences from concept to deployment. With strong command of both frontend and backend technologies, I develop web applications that are not only responsive and user-friendly but also robust and scalable. Whether it's designing clean interfaces or optimizing server performance, I bring both sides of the web together to deliver high-quality solutions.
+Full-Stack Developer passionate about creating seamless digital experiences. I specialize in building responsive, scalable web applications using modern technologies and best practices.
 
-- 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB, and Full-Stack Development**
-
+- 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB**
 - 📫 How to reach me **hassanferoz333@gmail.com**
-
-- ⚡ Fun fact **I love turning complex problems into simple, elegant solutions**
+- ⚡ Fun fact **I love turning complex problems into elegant solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,23 +33,41 @@ As a Full-Stack Developer, I craft seamless digital experiences from concept to 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Faruq-Feroz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical" alt="Faruq-Feroz" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical" alt="Faruq-Feroz" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Hassan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical&hide_border=true" alt="Hassan's Streak Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
-### 📊 My WakaTime Stats
-[![Hassan Faruq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### ⏱️ WakaTime Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
+</div>
 
 ---
 
-### 📫 How to reach me:
-- Email: [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)
-- LinkedIn: [Hassan Faruq](https://www.linkedin.com/in/faruq-hassan-733899349/)
+### 📫 Get In Touch
+
+<div align="center">
+  
+**Email:** [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)  
+**LinkedIn:** [Hassan Faruq](https://www.linkedin.com/in/faruq-hassan-733899349/)
+
+</div>
 
 ---
 
-⭐️ From [Hassan Faruq](https://github.com/Faruq-Feroz)
+<div align="center">
+  
+⭐️ **Thanks for visiting my profile!** ⭐️
+
+</div>
