@@ -35,39 +35,39 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Hassan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical&hide_border=true" alt="Hassan's Streak Stats" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Hassan's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical&hide_border=true" alt="Hassan's Streak Stats" height="165" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
 ### ⏱️ WakaTime Stats
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
-</div>
+</p>
 
 ---
 
 ### 📫 Get In Touch
 
-<div align="center">
+<p align="center">
   
 **Email:** [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)  
 **LinkedIn:** [Hassan Faruq](https://www.linkedin.com/in/faruq-hassan-733899349/)
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   
 ⭐️ **Thanks for visiting my profile!** ⭐️
 
-</div>
+</p>
