@@ -6,13 +6,13 @@
 
 Full-Stack Developer passionate about creating seamless digital experiences. I specialize in building responsive, scalable web applications using modern technologies and best practices.
 
-- 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB**
+- 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB, Full-Stack**
 - 📫 How to reach me **hassanferoz333@gmail.com**
-- ⚡ Fun fact **I love turning complex problems into elegant solutions**
+- ⚡ Fun fact **My cats form a dev team: one naps, one deletes code, one chews cables**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faruq-hassan-733899349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-faruq-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-faruq777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-faruq-linkedin" height="30" width="40" /></a>
 <a href="mailto:hassanferoz333@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hassan-email" height="30" width="40" /></a>
 </p>
 
