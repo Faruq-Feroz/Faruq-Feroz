@@ -35,7 +35,7 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Hassan's GitHub Stats" height="165" />
@@ -48,7 +48,7 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 ---
 
-### ⏱️ WakaTime Stats
+<h3 align="center">⏱️ WakaTime Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </p>
