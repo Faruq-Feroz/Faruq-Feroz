@@ -37,7 +37,7 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 ---
 
-<h2 align="center">📊 GitHub Statistics (2025)</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Hassan's GitHub Stats" height="165" />
