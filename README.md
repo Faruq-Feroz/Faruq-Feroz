@@ -7,13 +7,13 @@
 Full-Stack Developer passionate about creating seamless digital experiences. I specialize in building responsive, scalable web applications using modern technologies and best practices.
 
 - 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB, Full-Stack**
-- 📫 How to reach me **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f890998b8b99969e9d8a9782cbcbcbb89f95999194d69b9795">[email&#160;protected]</a>**
+- 📫 How to reach me **hassanferoz333@gmail.com**
 - ⚡ Fun fact **My cats form a dev team: one naps, one deletes code, one chews cables**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-faruq777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-faruq-linkedin" height="30" width="40" /></a>
-<a href="/cdn-cgi/l/email-protection#bbd3dac8c8dad5dddec9d4c1888888fbdcd6dad2d795d8d4d6" target="_blank">
+<a href="mailto:hassanferoz333@gmail.com" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" />
 </a>
 </p>
@@ -177,4 +177,15 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 <p align="center">
   
-**Email:** <a href="/cdn-cgi/
+**Email:** hassanferoz333@gmail.com  
+**LinkedIn:** [Hassan Faruq](https://www.linkedin.com/in/hassan-faruq777/)
+
+</p>
+
+---
+
+<p align="center">
+  
+⭐️ **Thanks for visiting my profile!** ⭐️
+
+</p>
