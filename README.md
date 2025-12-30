@@ -41,20 +41,16 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faruq-Feroz&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Hassan's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruq-Feroz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Hassan's Streak Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faruq-Feroz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="165" />
-</p>
+![Hassan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical) <br/>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Faruq-Feroz&theme=radical)](https://github.com/Faruq-Feroz/github-readme-stats-fast)  <br/>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  <br/>
+[![Hassan's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact)](https://github.com/Faruq-Feroz/github-readme-stats-fast)
 
 ---
 
 <h3 align="center">⏱️ WakaTime Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact&hide_border=true&cache_seconds=1800" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ---
