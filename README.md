@@ -7,13 +7,13 @@
 Full-Stack Developer passionate about creating seamless digital experiences. I specialize in building responsive, scalable web applications using modern technologies and best practices.
 
 - 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB, Full-Stack**
-- 📫 How to reach me **hassanferoz333@gmail.com**
+- 📫 How to reach me **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1c747d6f6f7d727a796e73662f2f2f5c7b717d7570327f7371">[email&#160;protected]</a>**
 - ⚡ Fun fact **My cats form a dev team: one naps, one deletes code, one chews cables**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-faruq777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-faruq-linkedin" height="30" width="40" /></a>
-<a href="mailto:hassanferoz333@gmail.com" target="_blank">
+<a href="/cdn-cgi/l/email-protection#365e5745455758505344594c05050576515b575f5a1855595b" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" />
 </a>
 </p>
@@ -41,10 +41,14 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-![Hassan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical) <br/>
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Faruq-Feroz&theme=radical)](https://github.com/Faruq-Feroz/github-readme-stats-fast)  <br/>
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  <br/>
-[![Hassan's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=faruq17&theme=radical&layout=compact)](https://github.com/Faruq-Feroz/github-readme-stats-fast)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Faruq-Feroz&show_icons=true&theme=radical" alt="Hassan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Faruq-Feroz&theme=radical" alt="Hassan's Streak Stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Faruq-Feroz&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" alt="Top Languages" height="165" />
+</p>
 
 ---
 
@@ -59,15 +63,4 @@ Full-Stack Developer passionate about creating seamless digital experiences. I s
 
 <p align="center">
   
-**Email:** [hassanferoz333@gmail.com](mailto:hassanferoz333@gmail.com)  
-**LinkedIn:** [Hassan Faruq](https://www.linkedin.com/in/hassan-faruq777/)
-
-</p>
-
----
-
-<p align="center">
-  
-⭐️ **Thanks for visiting my profile!** ⭐️
-
-</p>
+**Email:** [<a href="/cdn-cgi/l/email-protection" class="__cf_em
