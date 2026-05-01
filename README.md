@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruq-feroz&label=Profile%20views&color=0e75b6&style=flat" alt="faruq-feroz" /> </p>
 
-Full-Stack Developer passionate about creating seamless digital experiences. I specialize in building responsive, scalable web applications using modern technologies and best practices.
+Software developer specializing in full-stack development. I build complete systems — from APIs and databases to frontend and deployment — with a focus on clean architecture and production-ready code
 
 - 💬 Ask me about **React, JavaScript, Node.js, Python, MongoDB, Full-Stack**
 - 📫 How to reach me **hassanferoz333@gmail.com**
